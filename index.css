@@ -1,3 +1,9 @@
+
+@font-face {
+    font-family: AlisaHandwriting;
+    src: url(AlisaHandwriting.ttf);
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -86,7 +92,8 @@ section {
 }
 
 #home {
-  font-size: 72pt;
+  font-family: AlisaHandwriting;
+  font-size: 40pt;
   background-color: #1E8BC3;
 }
 
