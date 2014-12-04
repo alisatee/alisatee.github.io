@@ -56,26 +56,36 @@ a.nav-active {
 
 /*sections*/
 section {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
   padding-top: 4em;
   height: 100vh;
 }
 
-#home {
+#contact {
+  font-size: 60pt;
   background-color: #C5EFF7;
 }
 
-#about {
+#musings {
+  text-align: center;
+  color: white;
+  font-size: 60pt;
   background-color: #81CFE0;
 }
 
 #projects {
+  font-size: 60pt;
   background-color: #59ABE3;
 }
 
-#musings {
+#about {
+  font-size: 50pt;
+  color: white;
   background-color: #3498DB;
 }
 
-#contact {
+#home {
+  font-size: 72pt;
   background-color: #1E8BC3;
 }
