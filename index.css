@@ -97,12 +97,14 @@ section {
   background-color: #1E8BC3;
 }
 
+/*about me icons */
+
 .icon-wrapper {
   font-size: 30pt;
 }
 
 .icon-wrapper a {
-  padding-left: 10px;
+  padding-right: 30px;
   color: black;
 }
 
