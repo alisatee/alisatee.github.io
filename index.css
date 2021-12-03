@@ -99,7 +99,7 @@ section {
 
 #home {
 /*  font-family: AlisaHandwriting;*/
-  padding-top: 4em;
+  display: flex;
   font-size: 40pt;
   background-color: #1E8BC3;
 }
@@ -119,3 +119,20 @@ section {
   color: white;
 }
 
+
+.butter {
+  margin: auto;
+  font-size: 150px;
+}
+
+
+
+
+
+/* media queries */
+
+@media only screen and (max-width: 550px) {
+  .butter {
+    font-size: 118px;
+  }  
+}
